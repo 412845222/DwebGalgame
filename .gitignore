@@ -1,6 +1,6 @@
 /frameWebGame/frameWebGame/__pycache__
 /frameWebGame/webgame/__pycache__
 /frameWebGame/webgame/migrations
-/frameWebGame/db.sqlite3
+# /frameWebGame/db.sqlite3
 /dwebgalgame/node_modules
 /dwebgalgame/dist
